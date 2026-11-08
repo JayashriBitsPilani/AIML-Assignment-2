@@ -86,6 +86,3 @@ Upload `test_data.csv` when the app opens.
 - Split seed: `42`.
 - Models are trained once by the training workflow and saved under `model/`.
 - The test CSV is separate from training data.
-- Do not upload a screenshot placeholder as proof. Run the project on BITS Virtual Lab and capture your own execution screenshot.
-- Replace both link placeholders after publishing the repository and deploying the app.
-- Review the code, run it yourself, and be prepared to explain the preprocessing, model assumptions and metric interpretation.
