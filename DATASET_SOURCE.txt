@@ -1,0 +1,2 @@
+Wisconsin Diagnostic Breast Cancer dataset (WDBC), UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+This project loads the public dataset through sklearn.datasets.load_breast_cancer.
